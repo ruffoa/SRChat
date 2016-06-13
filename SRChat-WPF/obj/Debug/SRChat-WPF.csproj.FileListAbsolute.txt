@@ -1,0 +1,110 @@
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe.config
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe.manifest
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.application
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.pdb
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Dragablz.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\MahApps.Metro.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Owin.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Dragablz.pdb
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\MahApps.Metro.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\Dictionary1.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\FancyNotification.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\ChatWindow.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\App.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\Buttons.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\FancyNotification.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\ChatWindow.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\App.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_Content.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_MarkupCompile.cache
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_MarkupCompile.lref
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\Buttons.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\MainWindow.baml
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.g.resources
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat_WPF.Properties.Resources.resources
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.csproj.GenerateResource.Cache
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.exe.manifest
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.application
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.exe
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.pdb
+C:\Users\ARuffo\Documents\Visual Studio 2013\Projects\Broken SignalR Stuff\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.csprojResolveAssemblyReference.cache
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe.config
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.exe
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.pdb
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe.manifest
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.application
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.exe
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\SRChat-WPF.pdb
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Dragablz.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\MahApps.Metro.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\MaterialDesignColors.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Owin.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Security.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Newtonsoft.Json.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Owin.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\System.Windows.Interactivity.dll
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Dragablz.pdb
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\MahApps.Metro.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.Owin.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Microsoft.Owin.Security.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\bin\Debug\Newtonsoft.Json.xml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.csprojResolveAssemblyReference.cache
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\Dictionary1.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\FancyNotification.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\ChatWindow.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\App.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\Buttons.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\FancyNotification.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\MainWindow.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\ChatWindow.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\App.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_Content.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_MarkupCompile.cache
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF_MarkupCompile.lref
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\Buttons.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\MainWindow.baml
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.g.resources
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat_WPF.Properties.Resources.resources
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.csproj.GenerateResource.Cache
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.exe.manifest
+D:\BTNX\SRChat-WPF\SRChat-WPF\obj\Debug\SRChat-WPF.application
